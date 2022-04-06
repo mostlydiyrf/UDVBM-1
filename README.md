@@ -1,2 +1,2 @@
 # UDVBM-1
-Kicad design files, Arduino sketches, and user documents.
+Kicad (ver.6) design files, Arduino sketches, and user documents.
