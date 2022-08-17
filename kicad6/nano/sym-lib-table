@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "UDVBM-1-cache")(type "KiCad")(uri "${KIPRJMOD}/UDVBM-1-cache.kicad_sym")(options "")(descr ""))
+  (lib (name "UDVBM-1-rescue")(type "KiCad")(uri "${KIPRJMOD}/UDVBM-1-rescue.kicad_sym")(options "")(descr ""))
+)
