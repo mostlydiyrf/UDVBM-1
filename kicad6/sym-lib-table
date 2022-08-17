@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name UDVBM-1-cache)(type Legacy)(uri ${KIPRJMOD}/UDVBM-1-cache.lib)(options "")(descr ""))
-  (lib (name UDVBM-1-rescue)(type Legacy)(uri ${KIPRJMOD}/UDVBM-1-rescue.lib)(options "")(descr ""))
-)
